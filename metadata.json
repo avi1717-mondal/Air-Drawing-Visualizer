@@ -1,0 +1,13 @@
+{
+  "name": "AirDraw AI",
+  "description": "An AI-powered air drawing system with hand tracking and multimodal AI assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Computer Vision",
+    "Real-time AI",
+    "Hand Tracking"
+  ]
+}
